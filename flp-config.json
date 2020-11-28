@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "sap.ui.demo.cart.ES5_sample.Shop",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#ES5_sampleShop-Display",
+        "navigationComponentName": "sap.ui.demo.cart",
+        "intentSemanticObject": "ES5_sample.Shop",
+        "intentAction": "Display",
+        "html5ApplicationName": "es5sampleshop",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "00000000-0000-1111-0000-00000000"
+        ],
+        "contentPackages": [
+            "00000000-0000-2222-0000-00000000"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "ES5_sample.Shop",
+        "subtitle": "",
+        "searchKeywords": "ES5_sample.Shop,",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}

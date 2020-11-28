@@ -1,0 +1,8 @@
+#
+#Thu Jan 25 09:57:03 UTC 2018
+Name=ES5
+URL=https\://sapes5.sapdevcenter.com
+ProxyType=Internet
+Type=HTTP
+Authentication=NoAuthentication
+Description=Connection to the SAP Gateway Demo System ES5
